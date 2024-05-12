@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Poppins&family=Roboto:wght@100;300;400&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    user-select: none;
+    /* box-sizing: border-box; */
+}
+* input{
+    font-size: 16px;
+    color: rgba(153, 153, 153, 1);
+}
+header{
+    box-shadow: 0 0 8px 0 rgba(0, 0, 0, 0.08), 0 2px 4px 0 rgba(0, 0, 0, 0.12);
+}
+.containerH{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    height: 120px;
+    align-items: center;
+    justify-items: center;
+}
+.logo{
+    width: 75%;
+}
+.logo img{
+    Width:165px;
+    Height:42px;
+}
+.nomer{
+    width: 25%;
+    height: 46px;
+    align-items: center;
+}
+.containerM{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+}
+.conM{
+    display: flex;
+}
+.zm{
+    width: 70%;
+}
+.pz{
+    width: 30%;
+}
+.OZ h2{
+    Size:32px;
+    line-height: 36px;
+}
+.OZZ p{
+    size:24px; 
+    line-height: 24px;
+}
+.ft{
+    background-color: antiquewhite;
+    width: 100%;
+}
+.VZ{
+    margin-top: 25px;
+}
+.VZ p{
+   font-size: 24px;
+   line-height: 28px;
+}
+.ContactD{
+    margin-top: 15px;
+}
+.placeD{
+    display: flex;
+    width: 100%;
+}
+.placeD input{
+    width: 50%;
+    height: 42px;
+    gap: 4px;
+}
+.SD{
+    width: 50%;
+}
+.SDr input{
+    width: Fixed (20px)px;
+    height: Fixed (20px)px;
+    padding: 4px 0px 0px 0px;
+    gap: 0px;
+    border-radius: 100px 0px 0px 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+
+}
